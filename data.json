@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "Jirakit Aiadhet",
+      "email": "a@test.com",
+      "password": "1q2w3e4r",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "fullname": "test",
+      "email": "b@test.com",
+      "password": "1a2w3e4rs",
+      "gender": "Femal"
+    },
+    {
+      "id": 3,
+      "fullname": "Jirakit Aiadhet",
+      "email": "a@test.com",
+      "password": "1a2w3e4r",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "fullname": "Test05",
+      "email": "T5@mail.com",
+      "password": "11111",
+      "gender": "Female"
+    }
+  ]
+}
